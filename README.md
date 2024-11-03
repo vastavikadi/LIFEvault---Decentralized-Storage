@@ -1,9 +1,18 @@
 
-# LifeVault
+## 🎓 LifeVault
 
 LifeVault is a decentralized, privacy-focused file storage platform leveraging IPFS, Hive blockchain, and Pinata. It allows users to securely store, share, and manage their files, with metadata broadcasted on Hive for verifiability.
 
-## Features
+## 🚀 **Table of Contents**
+
+- [Features](https://github.com/vastavikadi/LIFEvault---Decentralized-Storage/edit/main/README.md#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## ✨ Features
 
 - **Decentralized Storage**: Stores files on IPFS, ensuring availability and privacy.
 - **Hive Integration**: Uses Hive blockchain for account integration and transaction broadcasting.
@@ -12,14 +21,14 @@ LifeVault is a decentralized, privacy-focused file storage platform leveraging I
 - **User Profiles and Transaction History**: Displays user details and transaction records.
 - **Integration with HiveExplorer and Hive Keychain** for easy account & its data access.
 
-## Getting Started
+## 🌟 Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org) (v14+)
 - [MongoDB](https://mongodb.com) (for data storage)
 - [Hive Keychain](https://hive-keychain.com) extension for Hive authentication.
 
-### Installation
+## ⚙️ Installation
 
 1. Clone the repository:
    ```bash
@@ -59,3 +68,12 @@ LifeVault is a decentralized, privacy-focused file storage platform leveraging I
 > **Note**: You'll need a Pinata account to obtain the API, SECRET KEY and JWT. Sign up at [PINATA](https://auth.pinata.cloud/realms/pinata/login-actions/registration?client_id=pinata-app&tab_id=_grlKze3fOw).
 
 > **Note**: You'll need a HIVE account as well as Hive KEYCHAIN browser extension. Sign up at [HIVE](https://ecency.com/signup?referral=vastavikadi).
+
+
+## 🛠️ Technologies Used
+
+- **Frontend**: Vite, Tailwind CSS, TypeScript
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **File Storage**: Pinata
+- **Blockchain Integration**: dhive, hivejs, Hive Keychain
