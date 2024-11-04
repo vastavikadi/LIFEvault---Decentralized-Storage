@@ -6,11 +6,10 @@ LifeVault is a decentralized, privacy-focused file storage platform leveraging I
 ## 🚀 **Table of Contents**
 
 - [Features](https://github.com/vastavikadi/LIFEvault---Decentralized-Storage/edit/main/README.md#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [Getting Started](https://github.com/vastavikadi/LIFEvault---Decentralized-Storage/edit/main/README.md#gettingstarted)
+- [Installation](https://github.com/vastavikadi/LIFEvault---Decentralized-Storage/edit/main/README.md#installation)
+- [Technologies Used](https://github.com/vastavikadi/LIFEvault---Decentralized-Storage/edit/main/README.md#technologies-used)
+- [License](https://github.com/vastavikadi/LIFEvault---Decentralized-Storage/edit/main/README.md#license)
 
 ## ✨ Features
 
@@ -77,3 +76,8 @@ LifeVault is a decentralized, privacy-focused file storage platform leveraging I
 - **Database**: MongoDB
 - **File Storage**: Pinata
 - **Blockchain Integration**: dhive, hivejs, Hive Keychain
+
+## 📄 **License**
+- This project is licensed under the MIT License. See the [LICENSE](https://github.com/vastavikadi/LIFEvault---Decentralized-Storage/edit/main/LICENSE) file for details.
+
+### Made with ❤️ by the LIFEvault team!
