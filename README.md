@@ -1,3 +1,27 @@
+<div align="center">
+  <h1> 💎 LIFEvault </h1>
+  <h2> 📒 A decentralized, privacy-focused file storage platform. </h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=HIVE+BLOCKCHAIN;IPFS;dAPP;PRIVACY ASSURITY" alt="Typing SVG">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/HiveJS-E31337?style=for-the-badge&logo=hive-blockchain&logoColor=white" alt="HiveJS" />
+  <img src="https://img.shields.io/badge/DHive-0077CC?style=for-the-badge&logo=hive-blockchain&logoColor=white" alt="DHive" />
+  <img src="https://img.shields.io/badge/Hive%20Keychain-FF5A00?style=for-the-badge&logo=hive-blockchain&logoColor=white" alt="Hive Keychain" />
+  <img src="https://img.shields.io/badge/Pinata-00C2FF?style=for-the-badge&logo=pinata&logoColor=white" alt="Pinata" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
+</p>
+
+---
 
 ## 🎓 LifeVault
 
