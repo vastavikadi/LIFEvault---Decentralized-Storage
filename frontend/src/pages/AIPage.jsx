@@ -27,7 +27,7 @@ export default function AIAssistant() {
             Our AI provides concise summaries of your events and important
             moments.
           </p>
-          <a href="https://lifevault.streamlit.app/event-summarization" className="mt-4 inline-block bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">
+          <a href="https://lifevault.streamlit.app" className="mt-4 inline-block bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">
             Learn More
           </a>
         </div>
@@ -42,7 +42,7 @@ export default function AIAssistant() {
           <p className="text-blue-600">
             Analyze the sentiments in your notes and documents for insights.
           </p>
-          <a href="https://lifevault.streamlit.app/sentiment-analysis" className="mt-4 inline-block bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">
+          <a href="https://lifevault.streamlit.app" className="mt-4 inline-block bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">
             Learn More
           </a>
         </div>
