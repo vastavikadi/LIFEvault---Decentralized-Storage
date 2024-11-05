@@ -104,4 +104,11 @@ LifeVault is a decentralized, privacy-focused file storage platform leveraging I
 ## 📄 **License**
 - This project is licensed under the MIT License. See the [LICENSE](https://github.com/vastavikadi/LIFEvault---Decentralized-Storage/edit/main/LICENSE) file for details.
 
+## YouTube Demo Video Link 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="Watch on YouTube" width="80">
+  </a>
+</p>
+
 ### Made with ❤️ by the LIFEvault team!
