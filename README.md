@@ -106,7 +106,7 @@ LifeVault is a decentralized, privacy-focused file storage platform leveraging I
 
 ## YouTube Demo Video Link 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+  <a href="https://youtu.be/OCCPR8HffDg?si=jw28hV0OB8B_nKxT">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="Watch on YouTube" width="80">
   </a>
 </p>
